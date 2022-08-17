@@ -19,6 +19,8 @@ ipch
 *.opensdf
 *.log
 *.pdb
+*.vcxproj
+*.filters
 *.ilk
 *.user
 *.sdf
